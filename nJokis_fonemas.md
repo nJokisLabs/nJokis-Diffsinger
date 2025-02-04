@@ -59,9 +59,9 @@
 ### Oclusivas sonoras
 | nJokis | x-sampa | IPA | Ejemplo | Descripción |
 |--|--|--|--|--|
-|b|b|b|Baraja / hablar [**b** a r a x a / a **b** l a r]|
-|g|g|g|Gato / agarrar [**g** a t o / a **g** a rr a r]|
-|d|d|d|Dado / dinero [**d** a D o / **d** i n e r o]|
+|b|b|b|Baraja / hambre [**b** a r a x a / a m **b** r e]|
+|g|g|g|Gato / enganche [**g** a t o / e N **g** a n ch e]|
+|d|d|d|Dado / Andes [**d** a D o / a n **d** e s]|
 
 ### Oclusivas Sordas
 | nJokis | x-sampa | IPA | Ejemplo | Descripción |
