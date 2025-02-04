@@ -23,7 +23,6 @@
 | nJokis | x-sampa | IPA | Ejemplo | Descripción |
 |--|--|--|--|--|
 |y|j|j|Hielo [**y** e l o]|
-|Y|j|j|llama / yo [ **Y** a m a  / **Y** o]| [**jj**] yeísmo/lleísmo regional Chile y Perú
 |w|w|w|Huevo [**w** e B o]|
 
 ### Diptongo final
@@ -112,7 +111,7 @@
 En UTAU solíamos usar el [**jj**] para representar este grupo de fonemas, pero por temas de programación, cada uno de estos debe ser programado separadamente ya que son fonemas distintos.
 | nJokis | x-sampa | IPA | Ejemplo | Descripción |
 |--|--|--|--|--|
-|Y|j|j|llama / yo [ **Y** a m a  / **Y** o]| [**jj**] yeísmo/lleísmo regional Chile y Perú
+|y|j|j|llama / yo [ **y** a m a  / **y** o]| [**jj**] yeísmo/lleísmo regional Chile y Perú
 |sh|S|ʃ|Llama / yo [**sh** a m a  / **sh** o]| [**jj**] yeísmo/lleísmo regional Ríoplatense
 |jh|dZ|d͡ʒ/d͡ʑ|Llama / yo [**jh** a m a  / **jh** o]| [**jj**] yeísmo/lleísmo regional
 |zh|Z|ʒ|Llama / yo [**zh** a m a / **zh** o]|[**jj**] yeísmo/lleísmo regional Andino
