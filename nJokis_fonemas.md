@@ -5,7 +5,7 @@
 |--|--|--|--|--|
 |a|a|a|Animal [**a** n i m a l]|
 |e|e|e|Escalera [**e** s k a l e r a]|
-|i|i|i|Indio [**i** n d i o]|
+|i|i|i|Indio [**i** n d y o]|
 |o|o|o|otoño [**o** t o nJ o]|
 | u | u|u|Uva [**u** B a]|
 |eh|E|ɛ|Este [**eh** h t e]|Regional Caribe 
