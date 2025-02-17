@@ -106,7 +106,7 @@
 |SP|Silence|
 |xxx|Trash|
 
-# What *yeísmo/lleísmo* should I use?
+# Which *yeísmo/lleísmo* should I use?
 ### Find out here which sound you could use for your LL and Y.
 At UTAU we used to use [**jj**] to represent this group of phonemes, but for programming reasons, each of these must be programmed separately since they are different phonemes.
 | nJokis | x-sampa | IPA | Example | Description |
