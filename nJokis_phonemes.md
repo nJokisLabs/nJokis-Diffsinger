@@ -8,8 +8,8 @@
 |i|i|i|Indio [**i** n d y o]|
 |o|o|o|otoño [**o** t o nJ o]|
 | u | u|u|Uva [**u** B a]|
-|eh|E|ɛ|Este [**eh** h t e]|Regional Caribe 
-|oh|O|ɔ|Hombre [**oh** m b r e]|Regional Caribe
+|eh|E|ɛ|Este [**eh** h t e]|Regional Caribbean 
+|oh|O|ɔ|Hombre [**oh** m b r e]|Regional Caribbean
 
 ### Extra vowels 
 | nJokis | x-sampa | IPA | Example | Description |
