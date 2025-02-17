@@ -6,7 +6,7 @@ This repository includes the phonetic table used by the team as well as recommen
 [Spanish Version](README.md)
 
 ## Contenido
-[nJokis Phonetic Table](nJokis_fonemas.md)</br>
+[nJokis Phonetic Table](nJokis_phonemes.md)</br>
 Labeling Tips (Soon)
 
 ## Voicebanks
