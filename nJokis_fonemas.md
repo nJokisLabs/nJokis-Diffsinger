@@ -102,8 +102,9 @@
 |--|--|
 |cl|Parada glotal|
 |vf|Vocal fry|
-|AP|Respiración|
-|SP|Silencio|
+|exh|Exhalación|
+|AP|Pausa de respiración|
+|SP|Pausa de silencio|
 |xxx|Basura|
 
 # ¿Cúal es mi *yeísmo/lleísmo*?
