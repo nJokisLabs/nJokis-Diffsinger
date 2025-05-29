@@ -102,6 +102,7 @@
 |--|--|
 |cl|Glottal stop|
 |vf|Vocal fry|
+|exh|Exhalation|
 |AP|Aspiration/Breath|
 |SP|Silence|
 |xxx|Trash|
